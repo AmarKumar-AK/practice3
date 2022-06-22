@@ -7,7 +7,10 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <h1>This is user1 file</h1>
+=======
     <h2>This is user2 file</h2>
+>>>>>>> 6e6fb5287eb14aa1bc473f2b9f573978f778514a
 </body>
 </html>
